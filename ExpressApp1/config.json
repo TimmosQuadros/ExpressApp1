@@ -1,0 +1,4 @@
+﻿{
+  "connectionString": "mongodb://localhost:27017/demoDb",
+  "secret": "7887bc574979818794dd889ccc86ed3f4f38ce2362d937d8742963f2806e3870845ac32236cf8a7f23ce564aa608b141b563ef17b1d871115c499e235402cb27"
+}
